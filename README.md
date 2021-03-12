@@ -36,3 +36,9 @@ termcolor==1.1.0
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==1.2.0
+
+
+# Output from Live camera screen shot
+![1](https://user-images.githubusercontent.com/25522855/110924596-3da46500-8348-11eb-8b3a-99f1c23273ba.png)
+![2](https://user-images.githubusercontent.com/25522855/110924605-409f5580-8348-11eb-8df1-58e42387f4ba.png)
+![3](https://user-images.githubusercontent.com/25522855/110924612-42691900-8348-11eb-99dc-67b4cbe2d8c6.png)
